@@ -1,0 +1,359 @@
+NaME	Phone
+Jbay Mechanical Repair  Service Centre (Pty) Ltd	825175993
+Hannom	825181610
+Electricians Cape Town	825268793
+Unreal Engineering Works	825382298
+RM Afro Engineering	825516958
+Rock Chucker Blasting Services (RCBS)	825517465
+Howard Civil Engineering SA	825520902
+DesignTek Engineering	825545164
+Southern Engineering Works. Pty Ltd	825556899
+Lesego’Le	825565503
+CAMBEV	825622798
+MTEENGINEERING	825625514
+Centre Engineering	825640097
+Bendet Engineering Services	825646501
+LSB Land Surveyors	825654202
+IM Geomatics Inc.	825654205
+CONTRACTING-CIVIL ENGINEERING DESIGN  CONSTRUCTION	825660029
+Riverside Construction  Maintenance	825660199
+H.B.M. ENGINEERING(PTY) LTD	825694251
+Emenem Industrial	825708093
+De Kock  Associates Wellington	825742097
+Richter Engineering	825748876
+RWNThermoMech	825750045
+JA.CO Engineering	825750080
+MVD Consulting Engineers	825778878
+MTD	825778922
+Lande Lonke	825784968
+Pieter Swanepoel Consulting Structural Engineer	825786877
+CE Contractors	825790348
+Hanswill Engineering (Pty) Ltd	825794102
+Obesa Lodge	825885900
+Trafficon	826007428
+Free State Bearing  Engineering Supplies Pty. Ltd.	826021788
+CAMSPEC ENGINEERING (PTY) LTD (South Africa)	826236163
+Rand Water Zuikerbosch	826311473
+Magesh Towing	826357942
+Old School Engineering	826421280
+Built Environment Partnership	826549620
+Sebego Maloka  Viljoen Civil Engineers (Pty) Ltd	826572886
+Amley Computer  Electrical Services CC	826598591
+LB Consulting Engineering - Gauteng	826611428
+BO LENG ENGINEERING  MANUFACTURING (PTY) LTD	826688168
+DEM Engineering	826699737
+Simrens Engineering	826826547
+Schauenburg Northen Cape	826831372
+H Square Engineers	826928285
+Masiphile Construction Projects	826941157
+STSS INDUSTRIAL ENGINEERING  DESIGN	827064530
+Helicoil Pro	827109951
+Repetition and General Engineering	827178474
+Overberg Pumps  Seals(Pty)Ltd	827182301
+WIETS ELECTRICAL AND CIVIL	827187827
+Excess Power Africa Consulting (PTY) Ltd.	827266025
+Jacos Engineering Vryheid	827337738
+Tricom Africa	827393596
+Bonyikho Auto Parts and Engineering	827400555
+Mr Cupboard	827408139
+Hydrocyl Engineering	827437554
+Fila Projects	827445410
+MVD Kalahari Consulting Civil and Structural Engineers	827488009
+Flash Electric	827550359
+Geospatial Scope	827554674
+Redford Engineering	827614679
+Sir Roys Guest House and Conference Centre	827702207
+AXIS DEVELOPMENTS	827728007
+U-Tech Engineering	827752667
+Ult Struct Structural and Civil Consulting Engineers	827761388
+Free State Installations Group	827772017
+FTC Consulting Engineers (Pty) Ltd	827799274
+Ponderosa Pine Trading	827804051
+Hyco Enterprises	827817259
+Accommodation @ Seven Gables	827833774
+Stanwill Precision Engineering	827856645
+Engineering	827875052
+Boschkop Engineering	827879447
+Storms River Guest Lodge	827965119
+ViKO Consulting Engineers	827969357
+R. E. Supervision	828001983
+Hydro Rubber Welkom	828012253
+J R Kopano Engineering	828065801
+DML Precision Engineering	828071349
+MTNS Electronics	828090488
+Kinsey Engineering	828097921
+Errowa (Pty) Ltd	828139895
+Tsela Tsweu Consulting Engineers (Pty) Ltd	828149896
+NTANJANA SOIL DESIGN LABORATORY	828163350
+Q  A CONSULTING	828198298
+Aerodesigns Africa	828215390
+Shim Engineering	828240182
+WNA Civil Engineering  Consulting	828243821
+Down Touch Investments (Pty) Ltd	828282083
+Subco Pty (Ltd) Civil Building  General Services	828308880
+B Z M Construction	828500163
+Sanmar Engineering	828536669
+PBOER Engineering (Pty) Ltd.	828541780
+A1 Bolts  Nuts Supplies	828554623
+hendrik engineering pretoria	828667198
+GT Consulting Engineers (Pty) Ltd	828678774
+JMB Engineering (Pty) Ltd	828812694
+Drylobag International | Complete Grain Drying, Storage and Preservation System	828867404
+BSM (Pty) Ltd	828869984
+ivic Services	828880961
+SLAMTECH	828892095
+Etienne du Randt Property Consultancy CC	828933938
+Audio Engineering	828956033
+Zwide Legacy Engineering	829022456
+Art Engineering	829029533
+DAK DESIGNS	829031751
+Mountain Charcoal Guest House	829035176
+RADIANGROUP (Pty) Ltd.	829064888
+Secure It Security Solutions	829076773
+Provo Precision Engineering	829211366
+Rotary Power (Pty) Ltd	829225377
+Grahamstown Automotive Engineering	829227896
+MSB ENGINEERING	829238380
+Micro Engineering	829240431
+Mpande	829285630
+XRG Engineering	829298074
+VSL Manufacturing	829324144
+KappGroup PTY Ltd	829407068
+Dups Lineboring and Welding	829524010
+Peet Olivier Consulting Engineers	829529524
+316STEELBENDERS ENGINEERS PTY(LTD)	829540821
+Global Engineering  Fabricators(Pty) Ltd	829715231
+Modderrivier Landini	829920276
+Dingaan workshop	832125022
+RECU	832253575
+H C PIETERSEN CONSULTING CIVIL  STRUCTURAL ENGINEERS	832276554
+ESG Services t/a Johan Wentzel Electrical	832282892
+Keller-kek South Africa	832291427
+Irich Enterprises t/a Irich Mechanical Engineering	832342531
+JJ Engineering  Fabrication Centre	832406099
+Engineeric Extruders Pty Ltd	832603966
+Dikoloi Gearbox  Diff	832611848
+Thirco Engineering	832616505
+NOLAN ENGINEERING	832640504
+Biotech Emporium cc	832660075
+Forric General Engineering cc Zandfontein 317-Jr, Pretoria	832663553
+ESSA ENGINEERING AND CONSTRUCTION	832673948
+Efficient Projects and Mining Supplies	832677120
+Vuka Engineering and Construction	832694697
+Van Blerk Structural Engineering	832708230
+Sinowatek Technology	832711808
+WRJC Engineering and industrial supplies	832714698
+GigaLot	832735673
+Imvomvo Country Lodge and Conference Center	832736981
+hrdesigns	832741896
+JD Electrical	832764627
+DSN Engineering Services	832780997
+Ferber Engineering	832808320
+MIHNEL Engineers And Civils	832870414
+NDK Civil and Structural Engineers	832874760
+Enrom Engineering	832924099
+Integrate Consulting Engineers	832940626
+MEGA Engineering	832957362
+Ditholwana Engineering	832970088
+LTM Engineering and Construction	833037454
+Meraki Civil Engineering Group	833047175
+Easton Plant and Civils	833061674
+DA Technical Engineering	833082891
+Mapohoshe Legacy	833159096
+MQD Engineering	833267081
+Strachan and Son Engineering	833359921
+Eastern Cape steel structures and Civils	833405940
+Etali Engineering and Projects Cc	833519626
+Macsteve training centre	833520271
+MD Civils	833582332
+RVT Engineering	833620024
+Kelefilwe Trading and Electrical Pty Ltd	833646586
+Procure Hydraulics Pty Ltd	833791338
+FUMEX ENGINEERING Dust Control Systems	833795456
+Christelle Fourie	833850844
+ZeeZee Khula Trading (Pty) Ltd	833864557
+KJA Mechanical Engineers	833907191
+P and A Engineering	833912247
+Terrestrial Technologies	833952251
+PSP Consult (Pty) Ltd	834063310
+MH Engineering	834140059
+BENEM HOLDINGS	834157578
+Rubber Coating Technologies East London  Surrounding Areas	834173330
+GELO Engineering	834412752
+ABR Engineering	834460675
+The Good Wrench Techs	834489810
+Mardene Engineering	834494047
+Tecnological Systems	834495458
+Wydeman Electrical	834497209
+Ensco Motor Engineering	834513226
+Peter Wium Consulting Engineers	834542143
+Cutman Manu Supplies	834544527
+Wim Hofsink Civil Engineering Services (Pty) Ltd	834551212
+Laurians Electrical Contracting,Sales  Solar	834586416
+Sese Precision Engineering And General Trading (PTY) LTD	834609756
+Binedell Design Solutions	834634246
+Shauns Maintenance	834681645
+TMG Electrical And IT Solutions	834785169
+ESB Engineering Consultants	834796305
+Slian SA	834899620
+REP Engineering	834981693
+ARGON FERROTEC	835005726
+Rope Access Abseiling Specialists Pty Ltd	835195934
+Cobwill Engineering	835266023
+Espeka Engineering South Africa	835385333
+MAMASENKE	835390364
+MG Consulting Engineers	835404174
+Matsobane Engineering Services	835450110
+Retreat on Main	835544124
+PJ Steynberg Landmeters / Land Surveyors	835562551
+Makgeta Electrical Engineering Pty Ltd	835616315
+Carelektries (PTY) Ltd	835665441
+Mthwana Projects	835699817
+My Motor Engineering	835785356
+Mogul Engineering	835895526
+Yellow Tree Environmental (PTY) LTD	836014314
+Complete Engineering Services (PTY) Ltd	836073728
+Enduser Instruments	836096606
+DSGP Construction	836137961
+Geomechanics, Eastern Cape	836160399
+Coetzer Elektries	836190463
+SF Gear Engineers	836266723
+Impact Plus Trading 685cc	836266744
+Kruger Boerdery Farm	836271355
+Luvanize Engineering	836279813
+Material Handling Automation	836284113
+Zrs Industries	836296806
+MQR Engineering Solutions (Pty) Ltd	836337422
+Saloojee Muhandisoon Consulting	836353141
+KRANSKOP REPAIRS service center (KZN BRANCH)	836490205
+DC Electrical	836502229
+DC Electrical Port Alfred	836502229
+CG Ton Lifting Consultants	836505903
+Doornpoort Engineering	836506584
+Constructive Consulting Engineering	836532743
+Gonelectrical	836540590
+Ocean Engineering	836543123
+G-FORCE ENGINEERING	836594565
+Acend Consulting Engineers	836601506
+Bloemelectric	836623343
+PDPS Pretoria (Plant Design and Project Services)	836668209
+Kainos Electrical Automation	836745220
+Vstruct Consulting Engineers	836754201
+Wilke Engineering	836763339
+Meco Engineering	836853441
+Rencrete Concrete Products	836888365
+Nqabeni Group	836935639
+Boikamo Serendipity PTY LTD	836991805
+JustPerfect	837027952
+Modstruct Consulting Engineers	837110904
+K V 3 Engineers	837430136
+ATM ELECTRICAL SOLUTIONS (PTY)LTD	837609073
+BE-ENERGY	837714089
+Umama Engineering and Maintenance services	837798433
+GVH Engineering	837832529
+Tonelron engineering	837922633
+VOLTENO ELECTRICAL	837932376
+MVS ENGINEERS	838657635
+LIKE HOME ELECTRICAL ENGINEERING AND GENERAL TRADING	838677463
+PLB Engineering (Pty)Ltd	838755061
+Rogram Engineering Services	839222937
+PRETTY ACADEMY AND ENGINEERING CONSULTING	839459252
+Kasi Automotive Engineering	839518906
+Sbu Stone	839597231
+Bauwen	839605249
+Simkho Sales	839640502
+Cape Fabric Engineering	842001633
+Profcon Resort	842082340
+JDE Civil  Structural Engineers	842085010
+EnginX V2 (Pty ) Ltd - Wellington	842612648
+NV Engineering CC	842662636
+mackana techniques	843003354
+WA Waterproofing South Coast	843200520
+GcinaSonke	843570117
+Romano General Engineering	843583533
+Manaba Electrical Services	844325817
+La Kubma	844326508
+RTTM Mining  Engineering Services	844546169
+Legend Complete Projects	844876919
+DK Motor General Maintenance Engineering	844990887
+Ulectric	844999937
+Mvelase Engineering Services (Pty) Ltd	845015886
+Elkanah Machining and Supplies	845039284
+CS Consulting Engineers	845173036
+EASY BUILD Graaff-Reinet	845261296
+N1 Motors en Ingenieurswerke	845264597
+BAMBATA ENGINEERING	845465472
+Nothnagel Consulting Engineers	845698221
+Power Pro Engineering Consultants	845801731
+QTS Engineering	845885493
+GN Coatings  Engineering	845987006
+Radical Rigging (Pty) Ltd	846038673
+Eco Tech Waterproofing  Rubberizing	846607912
+MEB Consulting Engineers and Project Managers	846727873
+NASH ELECTRICAL ENGINEERING	846949434
+Flippie's Ingenieurswerke	847011458
+Nagel Maintenance and Engineering	847346926
+Electrical experts	847448790
+Andipart (Pty)Ltd	847702317
+DPW Construction  Mechanical Engineering	847877987
+RT AUTOMOTIVE ENGINEERING	847939742
+Fouriesburg Supplies	848001264
+PMK Engineering	848024286
+Anathoth Electrical Services	848033468
+Multi Tool Hire	848558884
+Professional Metal Fabrication and Welding Engineering.	849786003
+Anti-Gravity Engineering	849798173
+Madibabay Engineering Solutions	849874444
+JRD Engineering	849911210
+Businesss Engineering	860104888
+PVA Consulting Engineers	861106256
+Engineering Council of South Africa	861225555
+Certus Engineering Pty Ltd	861237887
+NMP Holding’s	861365992
+GL Project Management  Engineering Services	861488886
+South West Gauteng College - Roodeport	861768849
+CSM Consulting Services (Pty) Ltd	861878252
+RLM Consulting Engineers (Pty) Ltd	865909969
+MOBA	867227463
+Robus Engineering Training Services	867240440
+Hydratech (Pty) Ltd	869990721
+Hi End Group (Pty) Ltd	870125632
+Dihlase Consulting Engineers (Pty) Ltd	870781657
+MPS Engineering	870873647
+TANDM - Gauteng	870920920
+Ultimate Partner - Gauteng	870920932
+Saneliso Engineering	870935957
+TeDatalec	870941842
+Streng Consulting Engineers (Pty) Ltd	870948887
+Fountain Civil Engineering (Pty) Ltd (FCE)	870951660
+Rodecon Engineering	870959653
+Selatile Moloi Consulting Engineers	871330106
+isiphethu	871352447
+SKCMasakhizwe Engineers (Pty) Ltd	871470650
+K5 Heavy Engineering	871472263
+MP WEST ENGINEERING COMPANY ( PTY ) LTD	871474055
+McKinnon Chain	871474232
+AVS Engineering Procurement Co.	871492204
+Africa-One Consulting and Research Pty Ltd	871492485
+BBEnergy	871508874
+Celankobe Engineering and Architectural Consultants	871520083
+Buchule Engineers (Pty) Ltd	871600199
+Electro Storm Engineering Consultants	871600530
+Lefata Engineering (Pty) LTD	872654060
+Luriware (Pty) Ltd Consulting Agricultural Engineers	872655762
+ZNM Consulting Engineers	873504035
+Victech - Engineering Services	873797096
+Precision Engineering	875100244
+Engcorp pty ltd	877000042
+Czar Construction	877022721
+WJK Consulting Engineers	877296193
+Malitech Engineering	878013329
+METC Engineering	878088862
+Kabe Consulting Engineers	878090982
+Gavron Engineering CC	878217392
+Q-Tech Industrial Solutions	878222771
+EDL Consulting Engineers	878975076
+Mnembe Civil Group	879425936
+Specialist Mechanical Engineers Koedoespoort Branch	879435494
+VNMM CONSULTING ENGINEERS	879441872
+Marvel Springs	879850922

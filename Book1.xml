@@ -1,0 +1,806 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>os</Author>
+  <LastAuthor>Fidel Nkwe</LastAuthor>
+  <Created>2024-08-16T07:17:01Z</Created>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>9624</WindowHeight>
+  <WindowWidth>23040</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Book1">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="189" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.4">
+   <Row>
+    <Cell><Data ss:Type="String">Name</Data></Cell>
+    <Cell><Data ss:Type="String">Phone</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Karabo BB</Data></Cell>
+    <Cell><Data ss:Type="Number">604745891</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">JAY TRUCK HIRE</Data></Cell>
+    <Cell><Data ss:Type="Number">606665995</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">FS Trade Theunissen</Data></Cell>
+    <Cell><Data ss:Type="Number">606855985</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Nolte  Co</Data></Cell>
+    <Cell><Data ss:Type="Number">609534812</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">TK Cooling and construction</Data></Cell>
+    <Cell><Data ss:Type="Number">612846191</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Beka Consultants</Data></Cell>
+    <Cell><Data ss:Type="Number">614071908</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Unathi Cash Loans</Data></Cell>
+    <Cell><Data ss:Type="Number">614826769</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">BLine Company (Pty) Ltd</Data></Cell>
+    <Cell><Data ss:Type="Number">615441436</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Pumolong Trading</Data></Cell>
+    <Cell><Data ss:Type="Number">615871164</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">R64 Trade</Data></Cell>
+    <Cell><Data ss:Type="Number">618235100</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Springbok 86 Innovations</Data></Cell>
+    <Cell><Data ss:Type="Number">619896990</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Property Info Stilfontein</Data></Cell>
+    <Cell><Data ss:Type="Number">620486793</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">13025 Leratong</Data></Cell>
+    <Cell><Data ss:Type="Number">621066901</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">BANTU CHICKEN LAYS</Data></Cell>
+    <Cell><Data ss:Type="Number">629393811</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Herman's Crystal Ice (Pty) Ltd</Data></Cell>
+    <Cell><Data ss:Type="Number">633554070</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">BAFOKENG BOARD MASTERS</Data></Cell>
+    <Cell><Data ss:Type="Number">633908920</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">VENTERSBURG TOWING</Data></Cell>
+    <Cell><Data ss:Type="Number">633934894</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Twilight Inn BB</Data></Cell>
+    <Cell><Data ss:Type="Number">635718705</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Vryheid Printers</Data></Cell>
+    <Cell><Data ss:Type="Number">636699922</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">breaking records</Data></Cell>
+    <Cell><Data ss:Type="Number">639180205</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Jenius Solutions (Pty) Ltd.</Data></Cell>
+    <Cell><Data ss:Type="Number">639702004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ekuvukeni Group (PTY) LTD</Data></Cell>
+    <Cell><Data ss:Type="Number">646527142</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Theunissen Abattoir</Data></Cell>
+    <Cell><Data ss:Type="Number">646566633</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">PitsaBox Cafe Pty Ltd</Data></Cell>
+    <Cell><Data ss:Type="Number">658521206</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ENK Steel Works (PTY) LTD</Data></Cell>
+    <Cell><Data ss:Type="Number">659315235</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Prophet Bennette Dhlamini</Data></Cell>
+    <Cell><Data ss:Type="Number">660288149</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">The Guesthouse Klerksdorp</Data></Cell>
+    <Cell><Data ss:Type="Number">660929902</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">GROUP TNT</Data></Cell>
+    <Cell><Data ss:Type="Number">662512727</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Boere Bande Villiers</Data></Cell>
+    <Cell><Data ss:Type="Number">664221866</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Land of tech</Data></Cell>
+    <Cell><Data ss:Type="Number">672304228</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">BUSINESS SOLUTIONS SA</Data></Cell>
+    <Cell><Data ss:Type="Number">672679678</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">LC5 Consulting</Data></Cell>
+    <Cell><Data ss:Type="Number">672679678</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Onthatile Lerato Holdings</Data></Cell>
+    <Cell><Data ss:Type="Number">672935997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bohlale Ingenuity</Data></Cell>
+    <Cell><Data ss:Type="Number">673106779</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">AMON BUSINESS (PTY) Ltd</Data></Cell>
+    <Cell><Data ss:Type="Number">676247285</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Evolution Hub SA</Data></Cell>
+    <Cell><Data ss:Type="Number">677140319</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">MSC Pty. Ltd</Data></Cell>
+    <Cell><Data ss:Type="Number">677277336</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Clint's Computer repairs</Data></Cell>
+    <Cell><Data ss:Type="Number">681361458</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">MOLETE DEVELOPMENT AND CONSTRUCTION</Data></Cell>
+    <Cell><Data ss:Type="Number">681538476</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KANEKO MULTI TRADING PTY LTD</Data></Cell>
+    <Cell><Data ss:Type="Number">681654169</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SAUTA GROUP</Data></Cell>
+    <Cell><Data ss:Type="Number">692709356</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Velilogisticssolutionsandprojects</Data></Cell>
+    <Cell><Data ss:Type="Number">693560190</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Innovius Events And Catering Solutions</Data></Cell>
+    <Cell><Data ss:Type="Number">710320916</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Vrede Agri Claas</Data></Cell>
+    <Cell><Data ss:Type="Number">713038712</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Icon Property Group - Virginia Free State</Data></Cell>
+    <Cell><Data ss:Type="Number">713066355</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Rabbonni's BB</Data></Cell>
+    <Cell><Data ss:Type="Number">713124652</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">PSI BUYBACK  PAWNSHOP</Data></Cell>
+    <Cell><Data ss:Type="Number">714387159</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">biz listing solutions</Data></Cell>
+    <Cell><Data ss:Type="Number">714971231</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Geyser attorneys</Data></Cell>
+    <Cell><Data ss:Type="Number">715425142</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Snyton General Trading(Pty)Ltd</Data></Cell>
+    <Cell><Data ss:Type="Number">715466165</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Motheo College - Thaba Nchu Campus</Data></Cell>
+    <Cell><Data ss:Type="Number">717319199</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">MOTLAITLAI CONSTRUCTION  PROJECTS</Data></Cell>
+    <Cell><Data ss:Type="Number">718254858</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">HHS BUSINESS SOLUTIONS</Data></Cell>
+    <Cell><Data ss:Type="Number">718789111</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Sonasipho Consulting</Data></Cell>
+    <Cell><Data ss:Type="Number">720270411</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Graphic design</Data></Cell>
+    <Cell><Data ss:Type="Number">720274792</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Revival Guest House</Data></Cell>
+    <Cell><Data ss:Type="Number">720325434</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Premier Slaghuis Thn</Data></Cell>
+    <Cell><Data ss:Type="Number">722019211</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Mantsopa Tombstone</Data></Cell>
+    <Cell><Data ss:Type="Number">723123679</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">nameus canella snap give(pty ltd)</Data></Cell>
+    <Cell><Data ss:Type="Number">723161405</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">CBU Engineering</Data></Cell>
+    <Cell><Data ss:Type="Number">726259353</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">GC Bande</Data></Cell>
+    <Cell><Data ss:Type="Number">726317503</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">BarLouwSolar</Data></Cell>
+    <Cell><Data ss:Type="Number">726483150</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Moltec Africa (Pty) Ltd</Data></Cell>
+    <Cell><Data ss:Type="Number">726767158</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Lephaila Skills Development Institute</Data></Cell>
+    <Cell><Data ss:Type="Number">727165732</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Klein Oasis fishing Resort</Data></Cell>
+    <Cell><Data ss:Type="Number">727616822</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Longata Consultant</Data></Cell>
+    <Cell><Data ss:Type="Number">728435443</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Calabria</Data></Cell>
+    <Cell><Data ss:Type="Number">730146494</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">BLACK ETHIOPIA TRADING ENTERPRISE CC</Data></Cell>
+    <Cell><Data ss:Type="Number">731043936</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Die Gewel Guesthouse</Data></Cell>
+    <Cell><Data ss:Type="Number">731339734</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Emangweni Guest House</Data></Cell>
+    <Cell><Data ss:Type="Number">732866745</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">METMO</Data></Cell>
+    <Cell><Data ss:Type="Number">733814199</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Mantrapro (Pty) Ltd</Data></Cell>
+    <Cell><Data ss:Type="Number">733870196</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Isfisozethu</Data></Cell>
+    <Cell><Data ss:Type="Number">733882275</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Master Thembane Holdings (Pty)ltd</Data></Cell>
+    <Cell><Data ss:Type="Number">734096875</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">The Business Hub</Data></Cell>
+    <Cell><Data ss:Type="Number">735378007</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Sign-it Vryheid</Data></Cell>
+    <Cell><Data ss:Type="Number">735788773</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Schalkwyk businesses</Data></Cell>
+    <Cell><Data ss:Type="Number">735849078</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Rammulotsi Creative Works(Pty Ltd)</Data></Cell>
+    <Cell><Data ss:Type="Number">740643824</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Thuthane Debt Relief</Data></Cell>
+    <Cell><Data ss:Type="Number">745215872</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Kwa-Andries (Pty) Ltd</Data></Cell>
+    <Cell><Data ss:Type="Number">745503536</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Jozi Wholesale</Data></Cell>
+    <Cell><Data ss:Type="Number">747482891</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Viljoenskroon creations new</Data></Cell>
+    <Cell><Data ss:Type="Number">748688258</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Simply Tyres</Data></Cell>
+    <Cell><Data ss:Type="Number">749944523</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Vrede advertiser</Data></Cell>
+    <Cell><Data ss:Type="Number">762004406</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">VeriQualified (PTY) Ltd</Data></Cell>
+    <Cell><Data ss:Type="Number">763159141</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">La Petite Tuinsentrum</Data></Cell>
+    <Cell><Data ss:Type="Number">765285510</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Knoxman Enterprise</Data></Cell>
+    <Cell><Data ss:Type="Number">765860433</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Heba Vergruisers bk</Data></Cell>
+    <Cell><Data ss:Type="Number">768533429</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Leef in die Sinkhuis</Data></Cell>
+    <Cell><Data ss:Type="Number">768589887</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">JMP Minerals Extraction</Data></Cell>
+    <Cell><Data ss:Type="Number">768933121</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ready Engineering</Data></Cell>
+    <Cell><Data ss:Type="Number">769056919</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SISI GUESTHOUSE</Data></Cell>
+    <Cell><Data ss:Type="Number">769130364</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Masiu IT Solutions</Data></Cell>
+    <Cell><Data ss:Type="Number">780111738</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Nhlangothi envo solutions pty Ltd</Data></Cell>
+    <Cell><Data ss:Type="Number">780861246</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Nhlangothi envo solutions pty Ltd</Data></Cell>
+    <Cell><Data ss:Type="Number">780861246</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Verkeerdevlei Primary School</Data></Cell>
+    <Cell><Data ss:Type="Number">780956828</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">springfontein auto service</Data></Cell>
+    <Cell><Data ss:Type="Number">781450564</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Vryheid Classifieds</Data></Cell>
+    <Cell><Data ss:Type="Number">781982832</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">BM2 Business Consulting Services</Data></Cell>
+    <Cell><Data ss:Type="Number">782073583</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Guesthouse Thaba Nchu</Data></Cell>
+    <Cell><Data ss:Type="Number">783866206</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">DIRArosa(Pty)Ltd</Data></Cell>
+    <Cell><Data ss:Type="Number">784968419</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WWF CHEMICALS</Data></Cell>
+    <Cell><Data ss:Type="Number">785304216</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Alet Fryde Accountants</Data></Cell>
+    <Cell><Data ss:Type="Number">786488676</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Evolution Print  Internet</Data></Cell>
+    <Cell><Data ss:Type="Number">786646742</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Sergio Salon and Business</Data></Cell>
+    <Cell><Data ss:Type="Number">787216305</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Zone14 5591</Data></Cell>
+    <Cell><Data ss:Type="Number">787305774</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Legacy Multi Trading Pty Ltd</Data></Cell>
+    <Cell><Data ss:Type="Number">787455256</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">RoseWalk Consultancy</Data></Cell>
+    <Cell><Data ss:Type="Number">787576486</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">JTH Trading(PTY)Ltd</Data></Cell>
+    <Cell><Data ss:Type="Number">787757743</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KHOSA BUSINESS CONSULTANTS (PTY) LTD</Data></Cell>
+    <Cell><Data ss:Type="Number">788247543</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Fokzy Services</Data></Cell>
+    <Cell><Data ss:Type="Number">788833233</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Reliability Business Solution</Data></Cell>
+    <Cell><Data ss:Type="Number">789555486</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Mbonis$ business</Data></Cell>
+    <Cell><Data ss:Type="Number">790410911</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">27-73-745-1830</Data></Cell>
+    <Cell><Data ss:Type="Number">790496604</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">JAHLISTENS TRADING AND PROJECTS</Data></Cell>
+    <Cell><Data ss:Type="Number">796814461</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMN Enterprise</Data></Cell>
+    <Cell><Data ss:Type="Number">797573330</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">3at1 Business Centre</Data></Cell>
+    <Cell><Data ss:Type="Number">797709340</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">3at1 Business Centre</Data></Cell>
+    <Cell><Data ss:Type="Number">797709340</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Goldfields Protection Unit</Data></Cell>
+    <Cell><Data ss:Type="Number">798120861</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Maphiri Media Enterprise</Data></Cell>
+    <Cell><Data ss:Type="Number">798518076</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Vredefort Slaghuis</Data></Cell>
+    <Cell><Data ss:Type="Number">799948652</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">TWEESPRUIT</Data></Cell>
+    <Cell><Data ss:Type="Number">813069417</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Vryheid Local Transport</Data></Cell>
+    <Cell><Data ss:Type="Number">813868521</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">DIGM GROUP</Data></Cell>
+    <Cell><Data ss:Type="Number">814741362</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Percy</Data></Cell>
+    <Cell><Data ss:Type="Number">820616682</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Villiers Jamaat Khana Ladies prayer facility available</Data></Cell>
+    <Cell><Data ss:Type="Number">823002786</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Blydskap Boerdery</Data></Cell>
+    <Cell><Data ss:Type="Number">823144120</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Springbok Transport</Data></Cell>
+    <Cell><Data ss:Type="Number">823635519</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">RavCom Business Chamber</Data></Cell>
+    <Cell><Data ss:Type="Number">823970652</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">BloemFindit - Bloemfontein Online Business Directory</Data></Cell>
+    <Cell><Data ss:Type="Number">824155799</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">jl group</Data></Cell>
+    <Cell><Data ss:Type="Number">824173472</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Na-Anku Engineering Viljoenskroon</Data></Cell>
+    <Cell><Data ss:Type="Number">824407578</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Forceflow</Data></Cell>
+    <Cell><Data ss:Type="Number">824565049</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Cosmos Chateau BB</Data></Cell>
+    <Cell><Data ss:Type="Number">824956853</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">6 Grobler Street, Springfontein, Freestate</Data></Cell>
+    <Cell><Data ss:Type="Number">825526906</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Sign Centre Vryheid</Data></Cell>
+    <Cell><Data ss:Type="Number">825929325</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Rodeospace CC</Data></Cell>
+    <Cell><Data ss:Type="Number">826545864</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Point on Coaching</Data></Cell>
+    <Cell><Data ss:Type="Number">827122050</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Jakkelsfontein Viljoenskroon</Data></Cell>
+    <Cell><Data ss:Type="Number">827443204</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">People's Choice Training Academy</Data></Cell>
+    <Cell><Data ss:Type="Number">827475296</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Warden exhaust  tyre</Data></Cell>
+    <Cell><Data ss:Type="Number">827748808</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Frankfort Guesthouse</Data></Cell>
+    <Cell><Data ss:Type="Number">827827775</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">MVUNYANE FILM PRODUXIONS (PTY) LTD</Data></Cell>
+    <Cell><Data ss:Type="Number">827944081</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Karin Hitge Independant Mannatech Associate</Data></Cell>
+    <Cell><Data ss:Type="Number">828388710</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Draai-Ma-In BB</Data></Cell>
+    <Cell><Data ss:Type="Number">828463605</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Kole Staalwerke</Data></Cell>
+    <Cell><Data ss:Type="Number">828729519</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Imbali Routes  Tours</Data></Cell>
+    <Cell><Data ss:Type="Number">828765352</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Screenworks</Data></Cell>
+    <Cell><Data ss:Type="Number">828963553</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Petra's Country Guesthouse</Data></Cell>
+    <Cell><Data ss:Type="Number">829440562</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ANUSKA T PRODUCTIONS AND ENTERTAINMENT PTY LTD</Data></Cell>
+    <Cell><Data ss:Type="Number">829500236</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Home business</Data></Cell>
+    <Cell><Data ss:Type="Number">832559164</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Fair Haven Guest House</Data></Cell>
+    <Cell><Data ss:Type="Number">832663419</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">hsi</Data></Cell>
+    <Cell><Data ss:Type="Number">832722166</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Indo africa milling</Data></Cell>
+    <Cell><Data ss:Type="Number">832727810</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Vattikhaki Boerdery</Data></Cell>
+    <Cell><Data ss:Type="Number">832842394</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Vattikhaki Boerdery</Data></Cell>
+    <Cell><Data ss:Type="Number">832842394</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">JV TECHNICAL CC</Data></Cell>
+    <Cell><Data ss:Type="Number">832881415</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">GOSEC</Data></Cell>
+    <Cell><Data ss:Type="Number">833081705</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Mathetsa Holdings(PTY) Ltd</Data></Cell>
+    <Cell><Data ss:Type="Number">834046089</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">De Sandsteen Guest House</Data></Cell>
+    <Cell><Data ss:Type="Number">834155333</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Quorum Relining Services</Data></Cell>
+    <Cell><Data ss:Type="Number">835007565</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">The Small Business Hub</Data></Cell>
+    <Cell><Data ss:Type="Number">835549326</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">MFT CONTRACTORS</Data></Cell>
+    <Cell><Data ss:Type="Number">835731989</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Industrial Commercial and Residential Solutions (ICR Solutions)</Data></Cell>
+    <Cell><Data ss:Type="Number">836284283</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Kasi Agri-business Projects Cooperative</Data></Cell>
+    <Cell><Data ss:Type="Number">836744033</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Fat ladies Consulting</Data></Cell>
+    <Cell><Data ss:Type="Number">836900499</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Van's Trucking</Data></Cell>
+    <Cell><Data ss:Type="Number">837192773</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Zwee holding</Data></Cell>
+    <Cell><Data ss:Type="Number">837206987</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">#Tag World</Data></Cell>
+    <Cell><Data ss:Type="Number">837688023</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Grant Holdings</Data></Cell>
+    <Cell><Data ss:Type="Number">837772388</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Nkamoheleng Enterprise</Data></Cell>
+    <Cell><Data ss:Type="Number">838793934</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KAMBULA LODGE</Data></Cell>
+    <Cell><Data ss:Type="Number">838851411</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Springbok Apartments</Data></Cell>
+    <Cell><Data ss:Type="Number">839458551</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">LENYORA MEDIA ENTERTAINMENT</Data></Cell>
+    <Cell><Data ss:Type="Number">842418683</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bella's B and B</Data></Cell>
+    <Cell><Data ss:Type="Number">842450115</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Mokhomong Investment Holdings</Data></Cell>
+    <Cell><Data ss:Type="Number">848888086</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Assupol Vryheid</Data></Cell>
+    <Cell><Data ss:Type="Number">861235664</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Link-Up Internet | Vryheid  Dundee</Data></Cell>
+    <Cell><Data ss:Type="Number">870563636</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Vryheid Fibre</Data></Cell>
+    <Cell><Data ss:Type="Number">870563636</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Lewis Warden</Data></Cell>
+    <Cell><Data ss:Type="Number">871140089</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">PSA Services</Data></Cell>
+    <Cell><Data ss:Type="Number">871700114</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Free State Oil</Data></Cell>
+    <Cell><Data ss:Type="Number">873588800</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">VKB Warden</Data></Cell>
+    <Cell><Data ss:Type="Number">873588900</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Warden VKB Silo</Data></Cell>
+    <Cell><Data ss:Type="Number">873588950</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">VIP Funeral Service and Tombstone</Data></Cell>
+    <Cell><Data ss:Type="Number">875270043</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Rapid Stationers</Data></Cell>
+    <Cell><Data ss:Type="Number">875270675</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Kano Business Solutions</Data></Cell>
+    <Cell><Data ss:Type="Number">879800493</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Kano Business Solutions</Data></Cell>
+    <Cell><Data ss:Type="Number">879800493</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
